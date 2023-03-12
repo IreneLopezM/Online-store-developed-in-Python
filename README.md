@@ -1,9 +1,9 @@
 # Online Store developed in Python
 
 ## Index
-1. Introduction
-2. Developed in 
-3. Try the app
+1. [Introduction](https://github.com/IreneLopezM/Online-store-developed-in-Python#1-introduction)
+2. [Developed in](https://github.com/IreneLopezM/Online-store-developed-in-Python#2-developed-in)
+3. [Try the app](https://github.com/IreneLopezM/Online-store-developed-in-Python#3-try-the-app)
 
 ## 1. Introduction 
 This is an application that simulates a grocery store shopping cart.
